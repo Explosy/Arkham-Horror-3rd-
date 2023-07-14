@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Explosy.ArkhamHorror3rd.Fro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explosy.ArkhamHorror3rd.Core", "Explosy.ArkhamHorror3rd.Core\Explosy.ArkhamHorror3rd.Core.csproj", "{22BC8754-F254-45AF-BA50-BF26FC76BA8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explosy.ArkhamHorror3rd.Core.Tests.Unit", "Explosy.ArkhamHorror3rd.Core.Tests.Unit\Explosy.ArkhamHorror3rd.Core.Tests.Unit.csproj", "{120F0C18-5B7A-435A-9251-CBBA5D30D4C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{22BC8754-F254-45AF-BA50-BF26FC76BA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22BC8754-F254-45AF-BA50-BF26FC76BA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22BC8754-F254-45AF-BA50-BF26FC76BA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120F0C18-5B7A-435A-9251-CBBA5D30D4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120F0C18-5B7A-435A-9251-CBBA5D30D4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120F0C18-5B7A-435A-9251-CBBA5D30D4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120F0C18-5B7A-435A-9251-CBBA5D30D4C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
