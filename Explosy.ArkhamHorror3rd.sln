@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explosy.ArkhamHorror3rd.Web
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explosy.ArkhamHorror3rd.Infrastructure", "Explosy.ArkhamHorror3rd.Infrastructure\Explosy.ArkhamHorror3rd.Infrastructure.csproj", "{E4AE202C-18A5-48B5-8264-9A93CADA6FC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explosy.ArkhamHorror3rd.Identity", "Explosy.ArkhamHorror3rd.Identity\Explosy.ArkhamHorror3rd.Identity.csproj", "{831EC9C7-8987-47E5-93AB-27E6C4A6AE3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E4AE202C-18A5-48B5-8264-9A93CADA6FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4AE202C-18A5-48B5-8264-9A93CADA6FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4AE202C-18A5-48B5-8264-9A93CADA6FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831EC9C7-8987-47E5-93AB-27E6C4A6AE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831EC9C7-8987-47E5-93AB-27E6C4A6AE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831EC9C7-8987-47E5-93AB-27E6C4A6AE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831EC9C7-8987-47E5-93AB-27E6C4A6AE3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
