@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explosy.ArkhamHorror3rd.Inf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explosy.ArkhamHorror3rd.Identity", "Explosy.ArkhamHorror3rd.Identity\Explosy.ArkhamHorror3rd.Identity.csproj", "{831EC9C7-8987-47E5-93AB-27E6C4A6AE3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explosy.ArkhamHorror3rd.Infrastructure.Identity", "Explosy.ArkhamHorror3rd.Infrastructure.Identity\Explosy.ArkhamHorror3rd.Infrastructure.Identity.csproj", "{BF5A7B87-2C18-404D-96BA-749D09985938}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{831EC9C7-8987-47E5-93AB-27E6C4A6AE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{831EC9C7-8987-47E5-93AB-27E6C4A6AE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{831EC9C7-8987-47E5-93AB-27E6C4A6AE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5A7B87-2C18-404D-96BA-749D09985938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5A7B87-2C18-404D-96BA-749D09985938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5A7B87-2C18-404D-96BA-749D09985938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5A7B87-2C18-404D-96BA-749D09985938}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
